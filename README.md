@@ -9,7 +9,7 @@ Repositório criado com fins didáticos para melhorar meu aprendizado, com o obj
 Este projeto serve como um portfólio prático dos conhecimentos adquiridos ao longo dos estudos, além de um laboratório para testar novas ideias e boas práticas de desenvolvimento Frontend.
 
 🔗 **Veja o projeto online**  
-[👉 Acesse a demonstração](https://biellzindev.github.io/Sneakers-Store/)
+[👉 Acesse a demonstração](https://biellzindev.github.io/Sneaker-Store/)
 
 ---
 
